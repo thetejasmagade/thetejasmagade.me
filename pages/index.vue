@@ -65,6 +65,8 @@
       <span class="text">Blog</span>✏️
     </NuxtLink>
 
+    <img src="~/assets/signature.svg" height="80px" width="80px">
+
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   </div>
 </template>
