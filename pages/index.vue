@@ -1,5 +1,5 @@
 <template>
-  <div class="intro py-12 px-10 sm:py-7 sm:px-40">
+  <div class="intro py-12 px-9 sm:py-7 sm:px-40">
     <h2 class="text-[50px] sm:text-[90px] font-bold flex">Hello. 
       <span>
         <img class="hello_gif sm:h-24 sm:w-24 h-[50px] w-[50px]"
