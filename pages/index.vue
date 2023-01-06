@@ -11,7 +11,7 @@
     </h3>
 
     <section class="about pt-10 sm:max-w-3xl font-light">
-      <p class="text-[1.4em]">
+      <p class="text-[22px]">
         <span>A Software Engineer and Web Developer living in &nbsp;<svg class="inline-block" width="24" height="28"
             viewBox="0 0 36 36">
             <path fill="#138808" d="M0 27a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4v-5H0v5z" />
