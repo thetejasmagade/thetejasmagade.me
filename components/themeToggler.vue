@@ -33,7 +33,6 @@
 
 <script setup>
 const colorMode = useColorMode()
-console.log(colorMode.preference)
 
 function changeTheme() {
     if (colorMode.preference === 'dark') {
