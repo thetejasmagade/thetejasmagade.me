@@ -1,12 +1,26 @@
 <template>
   <div class="intro py-12 px-8 sm:py-7 sm:px-40">
-    <h2 class="text-[50px] sm:text-[90px] font-bold flex">Hello. 
+    <h2 class="text-[50px] sm:text-[90px] font-bold flex">Hello.
       <span>
         <img class="hello_gif sm:h-24 sm:w-24 h-[50px] w-[50px]"
           src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
-        </span>
+      </span>
     </h2>
-    <h3 class="text-[23px] sm:text-[34px] pt-4">My name is <span class="font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]">Tejas Magade</span></h3>
+    <h3 class="text-[23px] sm:text-[34px] pt-4">My name is <span
+        class="font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]">Tejas Magade</span>
+    </h3>
+
+    <section class="about pt-10 sm:max-w-3xl font-light">
+      <p class="text-[1.4em]">
+        I Love ❤️ to write code, especially since I'm very passionate about Web Development. Skilled in
+        <strong>Java</strong>, <strong>Vue.js</strong>, <strong>Nuxt.js</strong>, <strong>HTML</strong>,
+        <strong>CSS</strong>, and a little bit of <strong>JavaScript</strong>. I love to discover new programming
+        languages and their websites. Also, I love to do <NuxtLink to="#"
+            class="max-w-sm leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]">
+            <span class="link link-underline link-underline-black">open-source</span>
+          </NuxtLink> work. I'm so excited to do something new.
+      </p>
+    </section>
   </div>
 </template>
 
@@ -35,5 +49,4 @@
   scrollbar-width: none;
   /* Firefox */
 }
-
 </style>
