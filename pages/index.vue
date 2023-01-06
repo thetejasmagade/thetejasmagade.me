@@ -61,12 +61,6 @@
     </section>
 
 
-    <NuxtLink to="#" class="text-2xl fixed top-[35px] right-[40px] sm:top-[40px] sm:right-[80px]">
-      <span class="text">Blog</span>✏️
-    </NuxtLink>
-
-    <img src="~/assets/signature.svg" height="80px" width="80px">
-
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   </div>
 </template>
@@ -98,7 +92,7 @@
 }
 
 
-.text {
+/* .text {
   font-weight: 800;
   outline: none;
   text-transform: uppercase;
@@ -114,5 +108,5 @@
   to {
     background-position: 400%;
   }
-}
+} */
 </style>
