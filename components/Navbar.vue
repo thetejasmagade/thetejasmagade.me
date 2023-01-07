@@ -32,7 +32,7 @@
                   </svg>
                 </span>Projects</NuxtLink>
             </li>
-            <li title="Change Theme" class="text-[#01DC84]">
+            <li title="Change Theme" class="pl-6 text-[#01DC84]">
               <themeToggler />
             </li>
           </ul>
@@ -57,9 +57,9 @@ nav .icon {
   height: 1.5rem;
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   nav .icon {
     display: none !important;
   }
-}
+} */
 </style>
