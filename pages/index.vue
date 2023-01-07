@@ -7,7 +7,7 @@
       </span>
     </h2>
     <h3 class="text-[23px] sm:text-[34px] pt-4">My name is <span
-        class="font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]">Tejas Magade</span>
+        class="font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]">Tejas Magade </span>
     </h3>
 
     <section class="about pt-10 sm:max-w-3xl font-light">
