@@ -32,7 +32,7 @@
                   </svg>
                 </span>Projects</NuxtLink>
             </li>
-            <li title="Change Theme" class="pl-6 pt-1 text-[#01DC84]">
+            <li title="Change Theme" class="pl-6 pt-2 text-[#01DC84]">
               <themeToggler />
             </li>
           </ul>
