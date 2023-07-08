@@ -49,17 +49,61 @@
               <circle cx="18" cy="18" r=".9" />
             </g>
           </svg>&nbsp;Mumbai, India.</span>
-        <br /><br />
-        I Love ❤️ to write code, especially since I'm very passionate about Web Development. Skilled in
-        <strong>Java</strong>, <strong>Vue.js</strong>, <strong>Nuxt.js</strong>, <strong>HTML</strong>,
-        <strong>CSS</strong>, and a little bit of <strong>JavaScript</strong>. I love to discover new programming
-        languages and their websites. Also, I love to do <NuxtLink to="#"
+      </p>
+      <br />
+      <p class="text-[22px]">
+        I have a deep passion for writing code ❤️, particularly in the field of web development. My skills primarily lie
+        in <strong>Vue.js</strong>, <strong>Nuxt.js</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and
+        <strong>JavaScript</strong>, with a touch of <strong>Java</strong> knowledge as well. Exploring different
+        programming languages and their applications on various websites brings me immense joy.
+      </p>
+      <br />
+      <p class="text-[22px]">
+        Additionally, I have a strong inclination towards contributing to <NuxtLink to="#"
           class="max-w-sm leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]">
           <span class="link link-underline link-underline-black">open-source</span>
-        </NuxtLink> work. I'm so excited to do something new.
+        </NuxtLink> projects. The prospect of embarking on new coding endeavors fills me with excitement and anticipation.
+      </p>
+      <br />
+      <p class="text-[22px]">
+        I am currently employed at <a href="https://sankeysolutions.com/"
+          class="max-w-sm leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]">
+          <span class="link link-underline link-underline-black">Sankey Solutions</span>
+        </a>, where my active involvement in the work is immensely fulfilling and
+        rewarding. This professional setting allows me to effectively apply my skills and knowledge. I am truly grateful
+        for the opportunity to contribute to the company's objectives and be part of this great organization.
+      </p>
+      <br />
+      <p class="text-[22px]">
+        To contact me <NuxtLink to="mailto:magadetejas@outlook.com"
+          class="max-w-sm leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]">
+          <span class="link link-underline link-underline-black">magadetejas@outlook.com</span>
+        </NuxtLink> this is my personal email id and <NuxtLink to="tel:+918433887822"
+          class="max-w-sm leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]">
+          <span class="link link-underline link-underline-black">+91-8433887822</span>
+        </NuxtLink> is my personal phone number.
       </p>
     </section>
 
+    <section class="pt-8">
+      <h6 class="text-gray-500 text-2xl tracking-widest font-thin">LINKS 🔗</h6>
+      <p class="text-[22px]">
+        <strong>Github:</strong> <a href="https://github.com/thetejasmagade/"
+          class="max-w-sm leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]">
+          <span class="link link-underline link-underline-black">github.com/thetejasmagade</span>
+        </a><br>
+        <strong>Twitter:</strong> <a href="https://twitter.com/thetejasmagade/"
+          class="max-w-sm leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]">
+          <span class="link link-underline link-underline-black">twitter.com/thetejasmagade</span>
+        </a><br>
+        <strong>Linkedin:</strong> <a href="https://linkedin.com/in/thetejasmagade/" class="max-w-sm leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]">
+          <span class="link link-underline link-underline-black">linkedin.com/in/thetejasmagade</span>
+        </a><br>
+        <strong>Instagram:</strong> <a href="https://instagram.com/itejasmagade/" class="max-w-sm leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]">
+          <span class="link link-underline link-underline-black">instagram.com/itejasmagade</span>
+        </a>
+      </p>
+    </section>
 
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   </div>

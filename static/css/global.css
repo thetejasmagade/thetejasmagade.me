@@ -1,11 +1,13 @@
 body {
-  background-color: #FAFDFF;
-  color: #3F3F46;
+  background-color: #fafdff;
+  color: #3f3f46;
 }
+
 .dark-mode body {
-  background-color: #0C0C0D;
-  color: #E4E4E7;
+  background-color: #0c0c0d;
+  color: #e4e4e7;
 }
+
 .sepia-mode body {
   background-color: #f1e7cd;
   color: #433422;
@@ -28,21 +30,22 @@ body {
   /* Firefox */
 }
 
-
 .link-underline {
   border-bottom-width: 0;
-  background-image: linear-gradient(transparent, transparent), linear-gradient(#fff, #fff);
+  background-image: linear-gradient(transparent, transparent),
+    linear-gradient(#fff, #fff);
   background-size: 0 2px;
   background-position: 0 100%;
   background-repeat: no-repeat;
-  transition: background-size .5s ease-in-out;
+  transition: background-size 0.5s ease-in-out;
 }
 
 .link-underline-black {
-  background-image: linear-gradient(transparent, transparent), linear-gradient(#00dc82, #36e4da)
+  background-image: linear-gradient(transparent, transparent),
+    linear-gradient(#00dc82, #36e4da);
 }
 
 .link-underline:hover {
   background-size: 100% 2px;
-  background-position: 0 100%
+  background-position: 0 100%;
 }
