@@ -83,6 +83,7 @@
           <span class="link link-underline link-underline-black">+91-8433887822</span>
         </NuxtLink> is my personal phone number.
       </p>
+      <br />
       <p class="text-[22px]">To Download my Resume <a href="https://github.com/thetejasmagade/thetejasmagade.me/blob/master/Tejas%20Magade%20Resume.pdf" download class="link link-underline link-underline-black">Click Here</a></p>
     </section>
 
