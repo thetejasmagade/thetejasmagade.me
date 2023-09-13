@@ -53,7 +53,7 @@
       <br />
       <p class="text-[22px]">
         I have a deep passion for writing code ❤️, particularly in the field of web development. My skills primarily lie
-        in <strong>Vue.js</strong>, <strong>Nuxt.js</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and
+        in <strong>Vue.js</strong>, <strong>Nuxt.js</strong>, <strong>Angular</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and
         <strong>JavaScript</strong>, with a touch of <strong>Java</strong> knowledge as well. Exploring different
         programming languages and their applications on various websites brings me immense joy.
       </p>
