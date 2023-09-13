@@ -84,7 +84,7 @@
         </NuxtLink> is my personal phone number.
       </p>
       <br />
-      <p class="text-[22px]">To Download my Resume <a href="https://github.com/thetejasmagade/thetejasmagade.me/blob/master/Tejas%20Magade%20Resume.pdf" download class="max-w-sm leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]"><span class="link link-underline link-underline-black">Click Here</span></a></p>
+      <p class="text-[22px]">📜 To Download my Resume <a href="https://github.com/thetejasmagade/thetejasmagade.me/blob/master/Tejas%20Magade%20Resume.pdf" download class="max-w-sm leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#00dc82] to-[#36e4da]"><span class="link link-underline link-underline-black">Click Here</span></a></p>
     </section>
 
     <section class="pt-8">
